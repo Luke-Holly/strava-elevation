@@ -1,4 +1,4 @@
 strava-elevation
 ================
 
-Mapping how high your ride.
+Mapping how high you ride.
